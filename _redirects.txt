@@ -1,0 +1,2 @@
+/staff.html /staff
+/about.html /about
